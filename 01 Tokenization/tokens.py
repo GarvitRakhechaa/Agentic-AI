@@ -37,5 +37,12 @@ for prompt in prompts:
     max_completion_tokens=5000 # max output tokens
     )
     usage = response.usage 
-    print(f" Prompt: {prompt}\n response: {response.choices[0].message.content}\n your tokens: {usage.prompt_tokens} \n completion_tokens: {usage.completion_tokens} \n total tokens: {usage.total_tokens} \n Finish Reason: {response.choices[0].finish_reason}")
+    print(f""" 
+    Prompt: {prompt}\n 
+    response: {response.choices[0].message.content}\n 
+    your tokens: {usage.prompt_tokens} \n 
+    completion_tokens: {usage.completion_tokens}\n 
+    total tokens: {usage.total_tokens} \n 
+    Finish Reason: {response.choices[0].finish_reason}
+    """)
     
