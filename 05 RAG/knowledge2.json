@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "category": "leave",
+    "department": "hr",
+    "text": "Employees receive 20 paid vacation days per year."
+  },
+  {
+    "id": 2,
+    "category": "leave",
+    "department": "hr",
+    "text": "Employees must submit vacation requests at least five working days before the planned leave."
+  },
+  {
+    "id": 3,
+    "category": "leave",
+    "department": "hr",
+    "text": "Unused vacation days can be carried forward to the next year according to company policy."
+  },
+  {
+    "id": 4,
+    "category": "leave",
+    "department": "hr",
+    "text": "Employees receive paid sick leave according to applicable company policy."
+  },
+  {
+    "id": 5,
+    "category": "leave",
+    "department": "hr",
+    "text": "Emergency leave should be communicated to the reporting manager as soon as possible."
+  },
+
+  {
+    "id": 6,
+    "category": "reimbursement",
+    "department": "finance",
+    "text": "Employees can claim reimbursement for approved internet expenses used for work."
+  },
+  {
+    "id": 7,
+    "category": "reimbursement",
+    "department": "finance",
+    "text": "Internet reimbursement claims must include a valid monthly bill."
+  },
+  {
+    "id": 8,
+    "category": "reimbursement",
+    "department": "finance",
+    "text": "Employees can claim approved travel expenses after submitting receipts."
+  },
+  {
+    "id": 9,
+    "category": "reimbursement",
+    "department": "finance",
+    "text": "Business meal expenses require receipts and manager approval."
+  },
+  {
+    "id": 10,
+    "category": "reimbursement",
+    "department": "finance",
+    "text": "Reimbursement requests are normally processed within ten working days."
+  },
+
+  {
+    "id": 11,
+    "category": "remote_work",
+    "department": "hr",
+    "text": "Employees may work remotely when their role and manager approval allow it."
+  },
+  {
+    "id": 12,
+    "category": "remote_work",
+    "department": "hr",
+    "text": "Remote employees must remain available during their agreed working hours."
+  },
+  {
+    "id": 13,
+    "category": "remote_work",
+    "department": "hr",
+    "text": "Employees working remotely are responsible for maintaining a suitable workspace."
+  },
+  {
+    "id": 14,
+    "category": "remote_work",
+    "department": "it",
+    "text": "Remote employees must use approved company devices and security controls."
+  },
+  {
+    "id": 15,
+    "category": "remote_work",
+    "department": "it",
+    "text": "Company VPN should be used when accessing restricted internal resources remotely."
+  },
+
+  {
+    "id": 16,
+    "category": "security",
+    "department": "it",
+    "text": "Employees must use strong passwords for company systems."
+  },
+  {
+    "id": 17,
+    "category": "security",
+    "department": "it",
+    "text": "Multi-factor authentication is required for important company applications."
+  },
+  {
+    "id": 18,
+    "category": "security",
+    "department": "it",
+    "text": "Employees must not share their company passwords with other people."
+  },
+  {
+    "id": 19,
+    "category": "security",
+    "department": "it",
+    "text": "Security incidents should be reported to the IT security team immediately."
+  },
+  {
+    "id": 20,
+    "category": "security",
+    "department": "it",
+    "text": "Company laptops should be locked whenever employees leave their workstation."
+  },
+
+  {
+    "id": 21,
+    "category": "benefits",
+    "department": "hr",
+    "text": "Eligible employees receive health insurance coverage according to the benefits plan."
+  },
+  {
+    "id": 22,
+    "category": "benefits",
+    "department": "hr",
+    "text": "Employees can review their health insurance benefits through the employee portal."
+  },
+  {
+    "id": 23,
+    "category": "benefits",
+    "department": "hr",
+    "text": "The company provides certain wellness benefits to eligible employees."
+  },
+  {
+    "id": 24,
+    "category": "benefits",
+    "department": "hr",
+    "text": "Employees should contact HR for questions about benefits eligibility."
+  },
+  {
+    "id": 25,
+    "category": "benefits",
+    "department": "hr",
+    "text": "Benefits may vary depending on employment type and applicable company policy."
+  },
+
+  {
+    "id": 26,
+    "category": "work_hours",
+    "department": "hr",
+    "text": "Standard working hours are defined by the employee's team and employment agreement."
+  },
+  {
+    "id": 27,
+    "category": "work_hours",
+    "department": "hr",
+    "text": "Employees should communicate planned schedule changes with their manager."
+  },
+  {
+    "id": 28,
+    "category": "work_hours",
+    "department": "hr",
+    "text": "Employees are expected to attend required meetings during working hours."
+  },
+  {
+    "id": 29,
+    "category": "work_hours",
+    "department": "hr",
+    "text": "Flexible working arrangements may be available for eligible teams."
+  },
+  {
+    "id": 30,
+    "category": "work_hours",
+    "department": "hr",
+    "text": "Employees should record working hours when their role requires time tracking."
+  },
+
+  {
+    "id": 31,
+    "category": "engineering",
+    "department": "engineering",
+    "text": "Production code should be reviewed by at least one other engineer before deployment."
+  },
+  {
+    "id": 32,
+    "category": "engineering",
+    "department": "engineering",
+    "text": "Engineers should write automated tests for important application functionality."
+  },
+  {
+    "id": 33,
+    "category": "engineering",
+    "department": "engineering",
+    "text": "Code changes should be committed using clear and meaningful commit messages."
+  },
+  {
+    "id": 34,
+    "category": "engineering",
+    "department": "engineering",
+    "text": "Critical production changes require appropriate testing before release."
+  },
+  {
+    "id": 35,
+    "category": "engineering",
+    "department": "engineering",
+    "text": "Engineering teams should document important architectural decisions."
+  },
+
+  {
+    "id": 36,
+    "category": "training",
+    "department": "hr",
+    "text": "Employees may participate in approved professional development programs."
+  },
+  {
+    "id": 37,
+    "category": "training",
+    "department": "hr",
+    "text": "Training expenses may require manager approval before registration."
+  },
+  {
+    "id": 38,
+    "category": "training",
+    "department": "hr",
+    "text": "Employees should complete mandatory security training within the assigned deadline."
+  },
+  {
+    "id": 39,
+    "category": "training",
+    "department": "hr",
+    "text": "Technical training can be requested when it supports the employee's role."
+  },
+  {
+    "id": 40,
+    "category": "training",
+    "department": "hr",
+    "text": "Employees should maintain records of completed professional certifications."
+  },
+
+  {
+    "id": 41,
+    "category": "equipment",
+    "department": "it",
+    "text": "Employees can request approved laptops and accessories required for their role."
+  },
+  {
+    "id": 42,
+    "category": "equipment",
+    "department": "it",
+    "text": "Company equipment must be returned when an employee leaves the organization."
+  },
+  {
+    "id": 43,
+    "category": "equipment",
+    "department": "it",
+    "text": "Damaged company equipment should be reported to the IT support team."
+  },
+  {
+    "id": 44,
+    "category": "equipment",
+    "department": "it",
+    "text": "Employees should not install unauthorized software on company-managed devices."
+  },
+  {
+    "id": 45,
+    "category": "equipment",
+    "department": "it",
+    "text": "IT support can assist employees with approved hardware configuration."
+  },
+
+  {
+    "id": 46,
+    "category": "travel",
+    "department": "finance",
+    "text": "Business travel should be approved before tickets and accommodation are booked."
+  },
+  {
+    "id": 47,
+    "category": "travel",
+    "department": "finance",
+    "text": "Employees should use approved travel vendors when company policy requires them."
+  },
+  {
+    "id": 48,
+    "category": "travel",
+    "department": "finance",
+    "text": "Travel reimbursement requires supporting receipts and business justification."
+  },
+  {
+    "id": 49,
+    "category": "travel",
+    "department": "finance",
+    "text": "Employees should submit travel expense reports after completing business travel."
+  },
+  {
+    "id": 50,
+    "category": "travel",
+    "department": "finance",
+    "text": "International business travel may require additional approval."
+  },
+
+  {
+    "id": 51,
+    "category": "payroll",
+    "department": "finance",
+    "text": "Employees receive salary payments according to the organization's payroll schedule."
+  },
+  {
+    "id": 52,
+    "category": "payroll",
+    "department": "finance",
+    "text": "Employees should report incorrect salary information to the payroll team."
+  },
+  {
+    "id": 53,
+    "category": "payroll",
+    "department": "finance",
+    "text": "Tax deductions are applied according to applicable laws and employee declarations."
+  },
+  {
+    "id": 54,
+    "category": "payroll",
+    "department": "finance",
+    "text": "Employees can access salary documents through the employee portal."
+  },
+  {
+    "id": 55,
+    "category": "payroll",
+    "department": "finance",
+    "text": "Payroll questions should be directed to the finance or payroll support team."
+  },
+
+  {
+    "id": 56,
+    "category": "onboarding",
+    "department": "hr",
+    "text": "New employees complete onboarding activities during their first days."
+  },
+  {
+    "id": 57,
+    "category": "onboarding",
+    "department": "hr",
+    "text": "New employees receive access to required systems after completing onboarding steps."
+  },
+  {
+    "id": 58,
+    "category": "onboarding",
+    "department": "it",
+    "text": "IT provisions approved devices and accounts for new employees."
+  },
+  {
+    "id": 59,
+    "category": "onboarding",
+    "department": "hr",
+    "text": "New employees should complete required policy acknowledgements."
+  },
+  {
+    "id": 60,
+    "category": "onboarding",
+    "department": "hr",
+    "text": "Managers should introduce new employees to their teams and responsibilities."
+  },
+
+  {
+    "id": 61,
+    "category": "performance",
+    "department": "hr",
+    "text": "Employees participate in periodic performance discussions with their managers."
+  },
+  {
+    "id": 62,
+    "category": "performance",
+    "department": "hr",
+    "text": "Performance goals should be aligned with team and organizational objectives."
+  },
+  {
+    "id": 63,
+    "category": "performance",
+    "department": "hr",
+    "text": "Managers provide feedback about employee performance throughout the year."
+  },
+  {
+    "id": 64,
+    "category": "performance",
+    "department": "hr",
+    "text": "Employees can discuss development goals during performance conversations."
+  },
+  {
+    "id": 65,
+    "category": "performance",
+    "department": "hr",
+    "text": "Performance review processes may differ between teams and employment levels."
+  },
+
+  {
+    "id": 66,
+    "category": "data",
+    "department": "engineering",
+    "text": "Sensitive company data should only be stored in approved systems."
+  },
+  {
+    "id": 67,
+    "category": "data",
+    "department": "engineering",
+    "text": "Access to sensitive data should follow the principle of least privilege."
+  },
+  {
+    "id": 68,
+    "category": "data",
+    "department": "engineering",
+    "text": "Production data should not be copied to personal devices."
+  },
+  {
+    "id": 69,
+    "category": "data",
+    "department": "engineering",
+    "text": "Data retention should follow company and legal requirements."
+  },
+  {
+    "id": 70,
+    "category": "data",
+    "department": "engineering",
+    "text": "Engineers should avoid exposing sensitive information in application logs."
+  },
+
+  {
+    "id": 71,
+    "category": "cloud",
+    "department": "engineering",
+    "text": "Cloud resources should be created using approved company accounts."
+  },
+  {
+    "id": 72,
+    "category": "cloud",
+    "department": "engineering",
+    "text": "Production cloud resources should have appropriate access controls."
+  },
+  {
+    "id": 73,
+    "category": "cloud",
+    "department": "engineering",
+    "text": "Cloud infrastructure changes should be reviewed before production deployment."
+  },
+  {
+    "id": 74,
+    "category": "cloud",
+    "department": "engineering",
+    "text": "Application secrets should be stored using approved secret management systems."
+  },
+  {
+    "id": 75,
+    "category": "cloud",
+    "department": "engineering",
+    "text": "Cloud monitoring should be enabled for important production services."
+  },
+
+  {
+    "id": 76,
+    "category": "communication",
+    "department": "general",
+    "text": "Employees should use professional communication when interacting with colleagues."
+  },
+  {
+    "id": 77,
+    "category": "communication",
+    "department": "general",
+    "text": "Important decisions should be documented in the appropriate company channels."
+  },
+  {
+    "id": 78,
+    "category": "communication",
+    "department": "general",
+    "text": "Employees should respond to urgent work communication within reasonable working hours."
+  },
+  {
+    "id": 79,
+    "category": "communication",
+    "department": "general",
+    "text": "Team meetings should have clear agendas when practical."
+  },
+  {
+    "id": 80,
+    "category": "communication",
+    "department": "general",
+    "text": "Employees should keep project stakeholders informed about important blockers."
+  }
+]

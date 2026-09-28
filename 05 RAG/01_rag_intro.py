@@ -28,6 +28,7 @@ def retrieve_info(question):
     elif "net worth" in question:
         return knowledge_base["net worth"]
 
+
 def ask_llm(question):
     context = retrieve_info(question)
     sys_prompt = f"""
